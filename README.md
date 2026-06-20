@@ -5,8 +5,8 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Daniel Gomes Rolando
+- Matricula:926043
 
 ## Prints do trabalho
 
